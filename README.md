@@ -1,2 +1,4 @@
 # TasteMeter
 Your ultimate culinary companion - a Digital Kitchen Scale website blending precision, modern tech, captivating animations, and a rich library of pictures fetched from the Flicker API!
+
+Welcome to our Digital Kitchen Scale website! Experience the perfect fusion of culinary precision and modern technology. Our user-friendly platform, built with HTML, CSS, and JavaScript, offers accurate measurements and a delightful cooking journey. With captivating animations and a sleek design, our website ensures an intuitive experience on any device. Explore a vast collection of enticing food scale pictures, fetched using JSON from the Flicker API, to inspire your culinary creativity. Whether you're a seasoned chef or a cooking enthusiast, our Digital Kitchen Scale website is your reliable companion. Elevate your cooking game and create mouthwatering dishes with confidence. Happy cooking!
