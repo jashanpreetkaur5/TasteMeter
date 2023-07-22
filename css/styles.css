@@ -1,0 +1,565 @@
+/* Stylesheet created by : Jashanpreet Kaur */
+body {
+  background: url(../images/body.jpg) no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#mainheading {
+  color: rgb(255, 0, 128);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 5%;
+}
+.item img {
+  width: 100%;
+  /* height: 500px; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  background-color: rgba(12, 10, 10, 0.95);
+  display: hidden;
+}
+
+h2 {
+  color: rgb(224, 0, 150);
+  text-align: center;
+}
+.a1 {
+  animation: blinking 1s infinite;
+}
+
+#btn3 {
+  border-radius: 30px;
+  color: #fff;
+  width: 12%;
+  height: 35px;
+  background: linear-gradient(90deg, #7858ac 0%, rgba(241, 5, 96, 0.56) 100%);
+  font-size: 0.7em;
+  border: 0;
+  cursor: pointer;
+  text-align: center;
+}
+#btn3:hover {
+  background-color: #7858ac;
+}
+
+#btn3 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@keyframes blinking {
+  0% {
+    color: rgb(98, 0, 179);
+  }
+  50% {
+    color: transparent;
+  }
+  100% {
+    color: rgb(209, 2, 2);
+  }
+}
+
+/* ends here */
+main {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  /* overflow: auto;
+  border: none;
+  border-radius: 1em;
+  background: transparent;
+  box-shadow: 0.3em 1em 1em 0.5em #cacaca; */
+  margin-top: 1em;
+}
+
+header {
+  height: auto;
+  background: linear-gradient(
+    90deg,
+    rgb(109 109 161) 0%,
+    rgb(190 167 227) 100%
+  );
+  text-align: center;
+}
+
+/* Style for container centers the page and sets the element width */
+#container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container2 {
+  margin-top: 20%;
+  width: 20%;
+  background-color: #028079;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#banner img {
+  width: 100%;
+  max-height: 321px;
+}
+
+#banner_caption p {
+  position: absolute;
+  top: 17.5em;
+  left: 2em;
+  color: #ff002f;
+  font-size: 1.6em;
+  font-family: "Lucida Grande", "Lucida Sans", Helvetica, sans-serif;
+  text-shadow: 0 0 0.1em #081feb;
+}
+p {
+  font-family: "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica,
+    sans-serif;
+  color: #830394;
+  font-size: 1.4em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.container {
+  background-color: rgba(12, 10, 10, 0.95);
+  display: hidden;
+}
+/* styles for contact page  */
+input,
+textarea {
+  display: block;
+  width: 50%;
+  margin-bottom: 1.2em;
+}
+label {
+  display: block;
+}
+
+.radio {
+  border: 1px solid #ffffff;
+  display: flex;
+  margin: 4px 0;
+  width: 50%;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.reference {
+  border: 1px solid #ffffff;
+  width: 100%;
+  margin-bottom: 1em;
+}
+#btn1,
+#btn2 {
+  background-color: #7858ac;
+  background: linear-gradient(90deg, #7858ac 0%, rgba(241, 5, 96, 0.56) 100%);
+  display: inline-block;
+  border-radius: 20px;
+  border: solid 2px #dbd9d9;
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#btn1:hover,
+#btn2:hover {
+  border: solid 1px #7d048d;
+  background-color: #ffffff;
+  background: linear-gradient(90deg, #ffffff 0%, rgba(145, 38, 172, 0.56) 100%);
+
+  color: #7858ac;
+}
+
+/* Style displays the mobile class */
+.mobile {
+  display: inline;
+}
+
+/*Style hides the desktop class*/
+.desktop {
+  display: none;
+}
+
+/* Style hides the tablet class */
+.tablet {
+  display: none;
+}
+/* Style for footer specifies font size, text alignment, and top margin */
+footer {
+  font-size: 1em;
+  padding: 30px;
+  background: linear-gradient(90deg, rgb(155 129 197) 0%, rgb(38 36 101) 100%);
+  color: #ffffff;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+}
+
+/* Style changes for footer element */
+footer {
+  position: relative;
+  width: 100%;
+  background: linear-gradient(90deg, rgb(155 129 197) 0%, rgb(38 36 101) 100%);
+  min-height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+footer .social-icons,
+footer .menu {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  flex-wrap: wrap;
+}
+
+footer .social-icons li,
+footer .menu li {
+  list-style: none;
+}
+
+footer .social-icons li a {
+  font-size: 2em;
+  color: #fff;
+  margin: 0 10px;
+  display: inline-block;
+  transition: 0.5s;
+}
+
+footer .social-icons li a:hover {
+  transform: translateY(-10px);
+}
+
+footer .menu li a {
+  font-size: 1.2em;
+  color: #fff;
+  margin: 0 10px;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+footer .menu li a:hover {
+  opacity: 1;
+}
+hr {
+  border: none;
+  width: 500px;
+  border-top: 1px solid rgb(255, 255, 255);
+  margin: 10px 0;
+}
+footer p {
+  color: #fff;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: #7d048d;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#contact {
+  font-family: "Montserrat", sans-serif;
+  color: #e71b69;
+  margin-top: 5%;
+  font-size: 1.6em;
+  text-align: center;
+}
+
+/* section {
+    float: left;
+    width: 50%;
+  } */
+section img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+aside {
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+/* Style for anchor elements within the footer element */
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: rgb(230, 65, 114);
+}
+/* ends here */
+
+/* style rule for media page */
+
+/* Style
+  rule for the video class
+  */
+
+.video {
+  padding: 1em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Style
+  rule for video element
+  */
+
+video {
+  border: 0.5em ridge #ffffff;
+  height: auto;
+  max-width: 100%;
+}
+
+/* ends here */
+
+/* Style for contact page starts */
+label {
+  float: left;
+  font-family: "Montserrat", sans-serif;
+  padding-right: 0.5em;
+  text-align: right;
+  width: 9em;
+  color: #7d048d;
+}
+/* ends here */
+
+/* style for training  */
+table,
+tr,
+th,
+td {
+  border: solid 0.1em #7d048d;
+  border-collapse: collapse;
+  font-family: "Montserrat", sans-serif;
+  padding: 1em;
+  color: #6e027c;
+}
+
+tr,
+th {
+  border: solid 1px #7d048d;
+}
+caption {
+  font-size: 1.5em;
+  padding-bottom: 1em;
+  font-family: "Montserrat", sans-serif;
+}
+tr:hover {
+  background-color: #ffffff;
+}
+thead {
+  border-style: solid;
+  border-color: #6e027c;
+}
+/* media query for tablet viewports target screen size with a minimum  of 660px */
+
+@media only screen and (min-width: 660px) {
+  /* Style displays the mobile class */
+
+  .mobile {
+    display: none;
+  }
+
+  /*Style hides the desktop class*/
+  .desktop {
+    display: inline;
+  }
+
+  /* Style specifies to display the tablet class */
+
+  .tablet {
+    display: block;
+    margin-top: -3em;
+    margin-bottom: -1em;
+  }
+
+  /* style for contact */
+  main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    /* border: none;
+    border-radius: 1em;
+    background: transparent;
+    box-shadow: 0.3em 1em 1em 0.5em #cacaca; */
+    margin-top: 1em;
+  }
+  section {
+    text-align: center;
+    width: 100%;
+  }
+
+  section img {
+    width: 100%;
+    height: auto;
+  }
+  aside {
+    margin-top: auto;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1em;
+  }
+  th {
+    border: solid 1px #7d048d;
+  }
+}
+
+/* Media query for desktop viewport targets screens with a minimum width of 1036px. */
+
+@media only screen and (min-width: 1036px) {
+  header {
+    text-align: left;
+  }
+
+  #banner_caption p {
+    position: absolute;
+    top: 11em;
+    color: #028079;
+    font-size: 2.5em;
+    text-align: left;
+    font-family: "Lucida Grande", "Lucida Sans", Helvetica, sans-serif;
+    text-shadow: 0 0 0.4em #a5e2fa;
+  }
+
+  footer {
+    background-color: rgb(135 105 183);
+    padding: 2em;
+    min-height: 180px;
+    margin: auto 0;
+    margin-top: auto;
+    /* position: fixed; */
+  }
+
+  .fsection {
+    width: 100%;
+    height: auto;
+  }
+
+  /* style for contact page */
+  main {
+    width: 80%;
+    /* margin-left: 4%;
+    margin-right: 5%; */
+    overflow: auto;
+    margin-top: 4em;
+    margin-bottom: 1em;
+  }
+  span {
+    color: #ff002f;
+  }
+  section {
+    float: left;
+    width: 50%;
+  }
+  #media section {
+    width: 100%;
+  }
+  #banner h1 {
+    text-align: center;
+    margin-bottom: 3%;
+    color: #424142;
+  }
+
+  section img {
+    width: 100%;
+    height: 100%;
+  }
+  aside {
+    margin-top: 2em;
+    float: right;
+    width: 50%;
+    /* margin-right: 1em; */
+  }
+
+  /* training style */
+  table {
+    margin-top: 2%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    border: 1.5px solid #6e027c;
+    border-collapse: collapse;
+    box-shadow: 0.3em 0.3em 1em 0.3em #868686;
+  }
+  tr:hover {
+    background-color: #ffffff;
+  }
+  .ttable tr th {
+    border: 2px solid #6e027c;
+    background-color: #c89cce;
+    color: #ffffff;
+  }
+
+  /* style for media page  */
+
+  video {
+    border: 0.5em ridge #ffffff;
+    min-width: 60%;
+    height: auto;
+  }
+  /* ends here */
+
+  .intro p {
+    animation: slide-in 1s ease-out;
+    font-size: 1.4em;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 10%;
+  }
+
+  @keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0%);
+    }
+  }
+  #team {
+    animation: slide-in 1s ease-out;
+    font-size: 1.2em;
+    margin-bottom: 10%;
+  }
+  @keyframes slide-in {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0%);
+    }
+  }
+}

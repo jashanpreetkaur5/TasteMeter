@@ -1,0 +1,250 @@
+/* training css */
+
+h2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(230, 65, 114);
+}
+#media h1 {
+  color: #ffffff;
+  background-color: rgb(230, 65, 114);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  width: 20%;
+  margin-left: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.galleryh2 h2 {
+  margin-left: 20%;
+}
+
+.tcaption {
+  margin-top: -12%;
+  font-weight: bold;
+  color: rgb(230, 65, 114);
+}
+
+/* media */
+video {
+  width: 70%;
+  height: 300px;
+}
+audio {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 1%;
+  opacity: 0.7;
+}
+section .training {
+  width: 100%;
+  text-align: center;
+}
+.training img {
+  margin-top: -15%;
+  width: 90%;
+  text-align: center;
+}
+.galleryh2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  margin-right: 20%;
+}
+.flicker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.flicker input[type="text"] {
+  width: 80%;
+  text-align: center;
+  padding: 10px;
+  border: solid black 1px;
+  background-color: #ffffff;
+  font-size: 16px;
+  border-radius: 20px;
+}
+
+.flicker button[type="submit"] {
+  position: absolute;
+  margin-right: 73%;
+  margin-bottom: 2%;
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.flicker button[type="submit"]:hover {
+  color: #000;
+}
+/* #photos {
+  text-align: center;
+}
+
+#photos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+} */
+/* Specials css */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  margin-left: 2em;
+  width: 20%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+  filter: grayscale(1);
+  transform: scale(1.1);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  color: rgb(230, 65, 114);
+  text-align: center;
+}
+
+del {
+  color: #000000;
+}
+
+.special img {
+  max-width: 18%;
+  margin-left: 5%;
+  height: auto;
+  border-radius: 50%;
+}
+
+div.special:hover {
+  filter: grayscale(1);
+}
+
+.specialtext {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 1.2em;
+  font-family: "Montserrat", sans-serif;
+  border: #ffffff solid 1px;
+  color: #591774;
+  list-style-type: none;
+  width: 60%;
+}
+.specialtext ul {
+  list-style-type: circle;
+}
+
+/* team css */
+
+/* Three columns side by side */
+.team {
+  width: 100%;
+}
+
+h2:hover {
+  color: #6060ab;
+}
+
+.column {
+  margin-top: 5%;
+  float: left;
+  width: 31.7%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+/* team style */
+
+/* Add some shadows to create a card effect */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after,
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: #000000;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #dd1170;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+.button:hover {
+  background-color: #6060ab;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+.phone {
+  text-decoration: none;
+  color: #ffffff;
+}
+.phone a {
+  color: #ffffff;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+
+  div.gallery {
+    width: 80%;
+    display: block;
+  }
+
+  .training img {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
+
+  ul li {
+    list-style-type: circle;
+    color: #dd1170;
+  }
+
+  .container a {
+    font-size: 1.7em;
+  }
+  .phone a {
+    color: #ffffff;
+  }
+}

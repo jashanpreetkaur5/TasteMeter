@@ -1,0 +1,382 @@
+{
+    "products": [
+      {
+        "name": "Etekcity Food Kitchen",
+        "stock": "12345",
+        "quantity": 10,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "OXO Good Grips Stainless Steel Food Scale",
+        "stock": "23456",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Escali Primo P115C Precision Kitchen Food Scale",
+        "stock": "34567",
+        "quantity": 15,
+        "size": "small",
+        "color": "Chrome"
+      },
+      {
+        "name": "GreaterGoods Digital Food Kitchen Scale",
+        "stock": "45678",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Ozeri ZK14-S Pronto Digital Multifunction Kitchen Food Scale",
+        "stock": "56789",
+        "quantity": 30,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "AccuWeight 207 Digital Kitchen Food Scale",
+        "stock": "67890",
+        "quantity": 10,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "Taylor Precision Products Stainless Steel Kitchen Food Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Etekcity Digital Kitchen Food Scale",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "My Weigh KD-8000 Kitchen Food Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Black"
+      },
+      {
+        "name": "American Weigh Scales AMW-SC-2KG Digital Kitchen Food Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "AmazonBasics Stainless Steel Digital Kitchen Food Scale",
+        "stock": "12340",
+        "quantity": 10,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Alimento Digital Kitchen Food Scale",
+        "stock": "23450",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Silver"
+      },
+      {
+        "name": "OXO Good Grips 6 Lb Precision Coffee Scale with Timer",
+        "stock": "34560",
+        "quantity": 15,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Etekcity Digital Kitchen Scale Multifunction Food Scale",
+        "stock": "45670",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "OXO Good Grips 11 Pound Food Scale with Pull-Out Display",
+        "stock": "56780",
+        "quantity": 30,
+        "size": "small",
+        "color": "White"
+      },
+      {
+        "name": "Ozeri Touch Professional Digital Kitchen Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Black"
+      },
+      {
+        "name": "Smart Weigh Culinary Kitchen Scale",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Cesto Portable Digital Kitchen Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "OXO Good Grips 22 Pound Food Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "White"
+      },
+      {
+        "name": "My Weigh iBalance i5000 Multi-Purpose Digital Kitchen Scale",
+        "stock": "12345",
+        "quantity": 10,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "Etekcity Digital Kitchen Scale with Removable Bowl",
+        "stock": "23456",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Primo P115M Precision Kitchen Food Scale",
+        "stock": "34567",
+        "quantity": 15,
+        "size": "small",
+        "color": "Metallic"
+      },
+      {
+        "name": "Taylor Precision Products Digital Kitchen Scale",
+        "stock": "45678",
+        "quantity": 25,
+        "size": "large",
+        "color": "White"
+      },
+      {
+        "name": "Escali Alimento NSF Certified Digital Kitchen Scale",
+        "stock": "56789",
+        "quantity": 30,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Ozeri Ultra Thin Professional Digital Kitchen Food Scale",
+        "stock": "67890",
+        "quantity": 10,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "GreaterGoods Nourish Digital Kitchen Food Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Silver"
+      },
+      {
+        "name": "Etekcity Food Kitchen Scale Bowl",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Silver"
+      },
+      {
+        "name": "Ozeri Pro II Digital Kitchen Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Black"
+      },
+      {
+        "name": "Taylor Precision Products Glass Top Digital Kitchen Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Silver"
+      },{
+        "name": "Escali Aqua Liquid Measuring Digital Kitchen Scale",
+        "stock": "12345",
+        "quantity": 10,
+        "size": "small",
+        "color": "Blue"
+      },
+      {
+        "name": "OXO Good Grips Stainless Steel Food Scale",
+        "stock": "23456",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Silver"
+      },
+      {
+        "name": "Etekcity Food Digital Kitchen Scale",
+        "stock": "34567",
+        "quantity": 15,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Taylor Precision Products Stainless Steel Analog Kitchen Scale",
+        "stock": "45678",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Ozeri Pronto Digital Multifunction Kitchen and Food Scale",
+        "stock": "56789",
+        "quantity": 30,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "Escali BFBW200 Glass Body Fat/ Water Digital Bathroom Scale",
+        "stock": "67890",
+        "quantity": 10,
+        "size": "small",
+        "color": "Clear"
+      },
+      {
+        "name": "Etekcity EK6212 Kitchen Food Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Ozeri Touch III 22 lbs. Digital Kitchen Scale",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "KitchenArt Pro Digital Kitchen Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Pana Volume and Weight Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Taylor Precision Products Stainless Steel Analog Kitchen Scale",
+        "stock": "45678",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Ozeri Pronto Digital Multifunction Kitchen and Food Scale",
+        "stock": "56789",
+        "quantity": 30,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "Escali BFBW200 Glass Body Fat/ Water Digital Bathroom Scale",
+        "stock": "67890",
+        "quantity": 10,
+        "size": "small",
+        "color": "Clear"
+      },
+      {
+        "name": "Etekcity EK6212 Kitchen Food Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Ozeri Touch III 22 lbs. Digital Kitchen Scale",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "KitchenArt Pro Digital Kitchen Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Pana Volume and Weight Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Etekcity EK6212 Kitchen Food Scale",
+        "stock": "78901",
+        "quantity": 20,
+        "size": "medium",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Ozeri Touch III 22 lbs. Digital Kitchen Scale",
+        "stock": "89012",
+        "quantity": 15,
+        "size": "small",
+        "color": "Black"
+      },
+      {
+        "name": "KitchenArt Pro Digital Kitchen Scale",
+        "stock": "90123",
+        "quantity": 25,
+        "size": "large",
+        "color": "Silver"
+      },
+      {
+        "name": "Escali Pana Volume and Weight Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Escali Pana Volume and Weight Scale",
+        "stock": "01234",
+        "quantity": 30,
+        "size": "small",
+        "color": "Stainless Steel"
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+    
+  
+  
